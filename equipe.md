@@ -1,5 +1,5 @@
 # Notre équipe
-Devise : un ticket une branche
+Devise : on cherche d'abord
 ## Membre A
 Adrien : apprendre 
 ## Membre B 
