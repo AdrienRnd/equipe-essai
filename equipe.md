@@ -1,6 +1,6 @@
 # Notre équipe
 Devise : à définir
 ## Membre A
-à compléter
+Adrien : apprendre 
 ## Membre B 
 à compléter
