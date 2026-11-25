@@ -1,5 +1,5 @@
 # Notre équipe
-Devise : à définir
+Devise : on cherche d'abord
 ## Membre A
 Adrien : apprendre 
 ## Membre B 
